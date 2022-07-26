@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+td,th{
+	border: 1px solid black;
+}
+table{
+	border-collapse: collapse;
+}
+
+.bienvenu{
+	font-weight: bold;
+	margin:auto;
+	width:20%;
+}
+
+
+.form{
+	width:393px;
+	margin:auto;
+}

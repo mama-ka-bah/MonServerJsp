@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+label{	
+	font-weight:bold;
+}
+input{
+	width: 150px;
+	float: right;
+}
+form{
+	width: 30%;
+	margin: auto;	
+	height: 80%;
+    line-height: 30px;
+    padding:15PX;
+    padding-bottom:30PX;
+    padding-top:0;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 160px;
+}
+.error{
+	color:red;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
